@@ -18,4 +18,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Borooooo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-https://access-counter.vercel.app/api/counter?name=github-username
+https://access-counter.vercel.app/api/counter?name=Borooooo
