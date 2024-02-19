@@ -18,4 +18,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Borooooo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[]https://camo.githubusercontent.com/838db3d991ed80985fb951cfa4b81692f56a8928b238826f983ad87dcd383bd8/68747470733a2f2f6d6f652d636f756e7465722e676c697463682e6d652f6765742f406d696b6f6b65723f7468656d653d72756c653334
