@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Borooooo
-- 👀 I’m interested in alternatywki
+
 
 
 ## 🌐 Socials:
